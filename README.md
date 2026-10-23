@@ -10,9 +10,9 @@ This is a descriptive analysis project. It does not predict anything.
 
 | Name | Roll No. | GitHub |
 |---|---|---|
-| Dhanishtha Deshpande | 06 | @username |
-| Himani Dalvi | 07 | @username |
-| Palak Bhutada | 13 | @username |
+| Dhanishtha Deshpande | 06 | @dhani-codes |
+| Himani Dalvi | 07 | @hixyt |
+| Palak Bhutada | 13 | @palak140207 |
 
 **Guides:** Bhagyashree Madan, Sonam Chopade
 **Course:** Big Data Analytics and Statistical Informatics Lab (LA2), Ramdeobaba University, Nagpur, 2026–27

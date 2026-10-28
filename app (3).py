@@ -121,5 +121,3 @@ with t5:
     show = glob[glob.countries >= n].sort_values("countries", ascending=False)
     st.badge(f"{len(show)} videos trended in {n} or more countries", icon="🌍", color="red")
     show_table(show)
-## Contributors
-- Himani Dalvi

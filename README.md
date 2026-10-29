@@ -24,6 +24,7 @@ This is a descriptive analysis project. It does not predict anything.
 - Countries: India, USA, Great Britain, Canada
 - Period: 14 Nov 2017 to 14 Jun 2018 (205 days)
 - Rows: 158,098 before cleaning, 152,794 after cleaning
+  
 
 The dataset is not in this repository because the files are large. Download it from the Kaggle link above.
 
